@@ -9,6 +9,6 @@ entries:
     name: chatpsphm
     type: application
     urls:
-    - chatpsphm-0.1.0.tgz
+    - https://arroyo46.github.io/helm/chatpsphm-0.1.0.tgz
     version: 0.1.0
 generated: "2024-04-16T11:48:13.144461007+02:00"
