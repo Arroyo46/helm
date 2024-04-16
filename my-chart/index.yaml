@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  chatpsphm:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2024-04-16T11:48:13.144843335+02:00"
+    description: A Helm chart for Kubernetes
+    digest: e8aa45d386edd485caea3e32163a1d583d3245c8153555c1122cd8e662a3536c
+    name: chatpsphm
+    type: application
+    urls:
+    - chatpsphm-0.1.0.tgz
+    version: 0.1.0
+generated: "2024-04-16T11:48:13.144461007+02:00"
